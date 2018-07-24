@@ -1,0 +1,3 @@
+set classpath=%CLASSPATH%;D:\AJAY\excel\poi-3.17\*;C:\wildfly-8.2.0_IWEBZ\modules\system\layers\base\org\dom4j\main\*;C:\wildfly-8.2.0_IWEBZ\modules\system\layers\base\org\slf4j\main\*;D:\AJAY\excel\poi-3.17\ooxml-lib\*;C:\wildfly-8.2.0_IWEBZ\modules\system\layers\base\com\fasterxml\jackson\core\jackson-core\main\*;C:\wildfly-8.2.0_IWEBZ\modules\system\layers\base\com\fasterxml\jackson\core\jackson-databind\main\*;C:\wildfly-8.2.0_IWEBZ\modules\system\layers\base\com\fasterxml\jackson\core\jackson-annotations\main\*;D:\AJAY\excel\poi-3.17\jar_files\*;
+
+https://github.com/monitorjbl/excel-streaming-reader
